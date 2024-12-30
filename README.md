@@ -42,8 +42,8 @@
   <br/>
 
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKDLDE)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKDLDE)](https://github.com/anuraghazra/github-readme-stats)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=djs100201&theme=warm)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKDLDE)](https://github.com/anuraghazra/github-readme-stats)<br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKDLDE)](https://github.com/anuraghazra/github-readme-stats)<br/>
+  <!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=djs100201&theme=warm) -->
 </div>
   
