@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello%World%20🖐🏻&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=fffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Hello%World%20🖐🏻&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=fffff)
 <!--
 **RKDLDE/RKDLDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
