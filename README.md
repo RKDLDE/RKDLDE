@@ -59,16 +59,11 @@
 </div>
 
 ---
-
 <div align="center">
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/RKDLDE/RKDLDE/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://github.com/RKDLDE/RKDLDE/blob/main/metrics.svg)
 
 </div>
-
----
 
 <div align="center">
 
