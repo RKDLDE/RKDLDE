@@ -59,11 +59,7 @@
 </div>
 
 ---
-<div align="center">
 
-![Metrics](https://github.com/RKDLDE/RKDLDE/blob/main/metrics.svg)
-
-</div>
 
 <div align="center">
 
