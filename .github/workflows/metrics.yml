@@ -1,9 +1,12 @@
 name: Metrics
 
 on:
-  schedule: 
-    - cron: "0 0 * * *" # 매일 자정 자동 업데이트
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -17,3 +20,4 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          output_action: 'upload'
