@@ -9,18 +9,24 @@ permissions:
   contents: write
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Generate Snake SVG
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate the Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: RKDLDE
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg
 
-      - name: Upload Snake to GitHub Pages
+      - name: Create dist folder and move SVG
+        run: |
+          mkdir dist
+          mv github-contribution-grid-snake.svg dist/
+
+      - name: Upload to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
