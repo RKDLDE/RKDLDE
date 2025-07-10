@@ -10,10 +10,6 @@
 |__|\_||__|__||__|__||___,_|    |_____||_____||_____|    |_____| \___/ |_____| \__,_||__|__|
 
 </pre>                                                                                  
-
-<!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub!;Studying+Hard!;Let's+Grow+Together!" />
-
 </div>
 
 <br/>
@@ -42,8 +38,14 @@
 </a>
 -->
 
+<div align="center">
+<!-- 타이핑 애니메이션 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub!;Studying+Hard!;Let's+Grow+Together!" />
+</div>
+
+
 <br/>
-<br/>
+
 
 <!-- 프로젝트 -->
 ## Main Project
@@ -54,8 +56,13 @@
 - [📌 **Project Name** - 간단한 설명 (기술스택)](link)
 <br/> 
 
-
 ## Side Project
+> 설명
+- [📍 **Project Name** - 간단한 설명 (기술스택)](link)
+- [📍 **Project Name** - 간단한 설명 (기술스택)](link)
+
+<br/> 
+
 
 <!-- 기술 스택 -->
 ## Tech Stack
@@ -98,21 +105,19 @@
   </tr>
 </table>
 
-
-
 <br/> 
 
 <!-- 깃허브 통걔 -->
-## GitHub Stats
+## My Stats
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RKDLDE&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RKDLDE&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=RKDLDE&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com/?user=RKDLDE&theme=radical" />
     </td>
     <td>
       <a href="https://solved.ac/rkdkang1112">
