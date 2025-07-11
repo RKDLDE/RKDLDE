@@ -59,8 +59,8 @@
 <table>
   <tr>
     <th width="40%" align="center">프로젝트 명</th>
-    <th width="30%" align="center">프로젝트 기간</th>
-    <th width="30%" align="center">사용 기술</th>
+    <th width="25%" align="center">프로젝트 기간</th>
+    <th width="35%" align="center">사용 기술</th>
   </tr>
   <tr>
     <td><a href="https://github.com/TEAM-DDIS/be14-fin-DDIS-FE"><b>효율적인 인사관리 시스템</b></a><br/>: 사용자 피드백에 기반한 사용자 친화적인 ERP 시스템 개발</td>
@@ -90,8 +90,8 @@
 <table>
   <tr>
     <th width="40%" align="center">프로젝트 명</th>
-    <th width="30%" align="center">프로젝트 기간</th>
-    <th width="30%" align="center">사용 기술</th>
+    <th width="25%" align="center">프로젝트 기간</th>
+    <th width="35%" align="center">사용 기술</th>
   </tr>
    <tr>
     <td><a href="https://github.com/RKDLDE/be14-1st-DDIS-POPUP?tab=readme-ov-file"><b>팝업스토어 운영을 위한 통합 관리 플랫폼</b></a><br/>: 팝업스토어의 홍보부터 예매, 리뷰까지 한 번에 관리할 수 있는 올인원 플랫폼</td>
