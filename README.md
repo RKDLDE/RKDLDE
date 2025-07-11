@@ -28,11 +28,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 
-<!--
-<a href="https://your-blog-url.com">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=Blogger&logoColor=white"/>
-</a>
 
+<a href="https://rkdlde.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=Blogger&logoColor=white"/>
+</a>
+<!--
 <a href="https://your-notion-link.com">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </a>
