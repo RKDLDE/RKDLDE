@@ -14,10 +14,12 @@
 
 <br/>
 <br/>
-<!-- 자기소개 -->
-끊임없이 배우고, 꾸준히 나아가는 개발자 강이도은입니다. 
 
-백엔드 중심으로 풀스택 개발을 공부하며, 더 좋은 팀원, 더 나은 개발자가 되기 위해 노력합니다.
+<div align="center">
+<!-- 자기소개 -->
+끊임없이 배우고, 꾸준히 나아가는 개발자 <strong>강이도은</strong>입니다. 
+
+백엔드 중심으로 <strong>풀스택</strong> 개발을 공부하며, 더 좋은 팀원, 더 나은 개발자가 되기 위해 노력합니다.
 
 <!-- 외부 링크 -->
 <a href="mailto:rkdkang1112@gmail.com">
@@ -37,6 +39,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </a>
 -->
+</div>
+
+<br/>
 
 <div align="center">
 <!-- 타이핑 애니메이션 -->
@@ -45,17 +50,17 @@
 
 
 <br/>
+<br/>
 
-
-## Main Project
+## 🔴 Main Project
 
 > 주요 프로젝트를 정리한 테이블입니다.
 
 <table>
   <tr>
-    <th align="center">프로젝트 명</th>
-    <th align="center">프로젝트 기간</th>
-    <th align="center">주요 스택</th>
+    <th width="40%" align="center">프로젝트 명</th>
+    <th width="20%" align="center">프로젝트 기간</th>
+    <th width="40%" align="center">사용 기술</th>
   </tr>
   <tr>
     <td><a href="https://github.com/TEAM-DDIS/be14-fin-DDIS-FE"><b>효율적인 인사관리 시스템</b></a><br/>: 사용자 피드백에 기반한 사용자 친화적인 ERP 시스템 개발</td>
@@ -77,16 +82,16 @@
 <br/>
 
 <details>
-<summary><strong>Sub Project 보기</strong></summary>
+<summary><strong>🟠 Sub Project 보기</strong></summary>
 <br/>
 
 > 메인 프로젝트 외에 학습 및 기능 구현에 집중한 보조 프로젝트입니다.
 
 <table>
   <tr>
-    <th align="center">프로젝트 명</th>
-    <th align="center">프로젝트 기간</th>
-    <th align="center">사용 기술</th>
+    <th width="40%" align="center">프로젝트 명</th>
+    <th width="20%" align="center">프로젝트 기간</th>
+    <th width="40%" align="center">사용 기술</th>
   </tr>
    <tr>
     <td><a href="https://github.com/RKDLDE/be14-1st-DDIS-POPUP?tab=readme-ov-file"><b>팝업스토어 운영을 위한 통합 관리 플랫폼</b></a><br/>: 팝업스토어의 홍보부터 예매, 리뷰까지 한 번에 관리할 수 있는 올인원 플랫폼</td>
@@ -107,10 +112,11 @@
 
 </details>
 
-
+<br/>
+<br/>
 
 <!-- 기술 스택 -->
-## Tech Stack
+## 🟡 Tech Stack
 <table>
   <tr>
     <th align="center">Languages</th>
@@ -153,7 +159,7 @@
 <br/> 
 
 <!-- 깃허브 통걔 -->
-## My Stats
+## 🟢 Activity Stats
 <div align="center">
 
 <table>
@@ -171,5 +177,12 @@
     </td>
   </tr>
 </table>
+</div>
 
+<br/>
+<br/>
+
+<!-- 방문자 수 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RKDLDE&color=blue&style=flat-square" alt="visitor badge"/>
 </div>
