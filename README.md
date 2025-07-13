@@ -49,8 +49,10 @@
 </div>
 
 
-<br/>
-<br/>
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 ## 🔴 Main Project
 
@@ -65,17 +67,17 @@
   <tr>
     <td><a href="https://github.com/TEAM-DDIS/be14-fin-DDIS-FE"><b>효율적인 인사관리 시스템</b></a><br/>: 사용자 피드백에 기반한 사용자 친화적인 ERP 시스템 개발</td>
     <td>2025.05.07 ~ 2025.06.30</td>
-    <td>Java, Spring Boot, Spring Security, JWT, FastAPI, Vue.js, JavaScript, ChatGPT API, MariaDB, Amazon RDS, GitHub Actions</td>
+    <td>Spring Boot, FastAPI, Vue.js, JavaScript, ChatGPT API, MariaDB</td>
   </tr>
   <tr>
     <td><a href="https://github.com/TEAM-DDIS/be14-4th-DDIS-ToDoDduDu-BE"><b>협업형 To-do 플랫폼</b></a><br/>: 개인 일정 관리와 공동 목표 달성을 모두 아우르는 Todo & Habit Tracker</td>
     <td>2025.04.30 ~ 2025.05.02</td>
-    <td>Java, Spring Boot, Spring Security, JWT, Vue.js, JavaScript, MariaDB, Redis, Docker, Jenkins, Kubernetes</td>
+    <td>Spring Boot, Vue.js, JavaScript, MariaDB</td>
   </tr>
   <tr>
     <td><a href="https://github.com/be14-2nd-spring-is-coming/be14-2nd-springiscomming-marktory"><b>Markdown기반 블로그</b></a><br/>: Markdown으로 표현하고, 템플릿으로 공유하는 개발자 중심 블로그 플랫폼 </td>
     <td>2025.03.24 ~ 2025.04.14</td>
-    <td>Java, Spring Boot, Spring Security, JWT, MariaDB, Eureka</td>
+    <td>Spring Boot, MariaDB, Eureka</td>
   </tr>
 </table>
 
@@ -101,12 +103,12 @@
   <tr>
     <td><a href="https://github.com/RKDLDE/Z_project"><b>프라이빗 커뮤니티 APP</b></a><br/>: Kotlin, Firebase 기반 프라이빗 커뮤니티 기반 소셜 네트워크 APP</td>
     <td>2024.07.19 ~ 2024.11.03</td>
-    <td>Kotlin, Firebase Realtime Database, Firebase Auth, Kakao API, Android Widget</td>
+    <td>Kotlin, Firebase Realtime Database, Firebase Auth, Kakao API</td>
   </tr>
    <tr>
     <td><a href="https://github.com/RKDLDE/panic_project"><b>공황장애 디지털 보조 치료 APP</b></a><br/>: 공황장애 예방 및 관리를 돕기 위한 보조 치료 APP</td>
     <td>2023.06.01 ~ 2024.01.10</td>
-    <td>Flutter, Firebase, Google Cloud API, Android Studio</td>
+    <td>Flutter, Firebase, Google Cloud API</td>
   </tr>
 </table>
 
