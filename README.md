@@ -21,11 +21,11 @@
 > 더 좋은 팀원, 더 나은 개발자가 되기 위해 노력합니다.
 
 <br/>
-
+<!--
 📧 Email: rkdkang1112@gmail.com  
 🌐 GitHub: [github.com/RKDLDE](https://github.com/RKDLDE)  
 📝 Blog: [rkdlde.tistory.com](https://rkdlde.tistory.com)
-
+-->
 <br/>
 
 ## Tech Stack
