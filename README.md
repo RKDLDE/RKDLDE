@@ -23,7 +23,7 @@
 <br/>
 
 📧 Email: canddykang.de@gmail.com  
-👩🏻 Portfolio: [https://rkdlde.github.io](https://rkdlde.github.io)   
+<!-- 👩🏻 Portfolio: [https://rkdlde.github.io](https://rkdlde.github.io)  -->
 🗒️ Blog: [https://rkdlde.tistory.com](https://rkdlde.tistory.com)
 
 <br/>
