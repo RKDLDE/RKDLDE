@@ -22,9 +22,7 @@
 
 <br/>
 
-📧 Email: canddykang.de@gmail.com  
-<!-- 👩🏻 Portfolio: [https://rkdlde.github.io](https://rkdlde.github.io)  -->
-🗒️ Blog: [https://rkdlde.tistory.com](https://rkdlde.tistory.com)
+contact: canddykang.de@gmail.com
 
 <br/>
 
@@ -98,11 +96,12 @@
     <td><sub>Spring Boot, Vue.js, JavaScript, MariaDB</sub></td>
   </tr>
   <tr>
+  <tr>
     <td>
-      <a href="https://github.com/be14-2nd-spring-is-coming/be14-2nd-springiscomming-marktory"><b>Markdown 기반 블로그</b></a><br/>
+      <a href="https://github.com/RKDLDE/Z_project"><b>Kotlin 기반 프라이빗 커뮤니티 APP</b></a><br/>
     </td>
-    <td>2025.03 ~ 04</td>
-    <td><sub>Spring Boot, MariaDB, Eureka</sub></td>
+    <td>2024.07 ~ 11</td>
+    <td><sub>Kotlin, Firebase, Kakao API</sub></td>
   </tr>
 </table>
 
@@ -119,19 +118,20 @@
     <th width="30%" align="center">사용 기술</th>
   </tr>
   <tr>
+   <td>
+      <a href="https://github.com/be14-2nd-spring-is-coming/be14-2nd-springiscomming-marktory"><b>Markdown 기반 블로그</b></a><br/>
+    </td>
+    <td>2025.03 ~ 04</td>
+    <td><sub>Spring Boot, MariaDB, Eureka</sub></td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/RKDLDE/be14-1st-DDIS-POPUP"><b>팝업스토어 통합 관리 시스템</b></a><br/>
     </td>
     <td>2025.01</td>
     <td><sub>MariaDB, Linux, Ubuntu</sub></td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/RKDLDE/Z_project"><b>Kotlin 기반 프라이빗 커뮤니티 APP</b></a><br/>
-    </td>
-    <td>2024.07 ~ 11</td>
-    <td><sub>Kotlin, Firebase, Kakao API</sub></td>
-  </tr>
+
   <tr>
     <td>
       <a href="https://github.com/RKDLDE/panic_project"><b>Flutter 기반 공황장애 관리 보조 APP</b></a><br/>
