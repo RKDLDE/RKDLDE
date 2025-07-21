@@ -68,7 +68,7 @@ contact: canddykang.de@gmail.com
 </table>
 
 <br/>  
-
+<!--
 ## Main Projects
 
 <table width="100%" style="table-layout: auto;">
@@ -144,6 +144,7 @@ contact: canddykang.de@gmail.com
 </details>
 
 <br/>  
+-->
 
 ## Stats
 
