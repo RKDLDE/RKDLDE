@@ -42,13 +42,11 @@ contact: canddykang.de@gmail.com
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -60,9 +58,6 @@ contact: canddykang.de@gmail.com
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/Notion-F3F3F3?style=flat&logo=Notion&logoColor=black"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DA%23-FFB900?style=flat&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ERDCloud-007ACC?style=flat&logo=Cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -168,6 +163,8 @@ contact: canddykang.de@gmail.com
 
 <br/>
 
+<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RKDLDE&color=blue&style=flat-square" alt="visitor badge"/>
 </div>
+-->
