@@ -63,7 +63,7 @@ contact: canddykang.de@gmail.com
 </table>
 
 <br/>  
-<!--
+
 ## Main Projects
 
 <table width="100%" style="table-layout: auto;">
@@ -74,7 +74,7 @@ contact: canddykang.de@gmail.com
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/TEAM-DDIS/be14-fin-DDIS-FE"><b>효율적인 인사관리 시스템</b></a><br/>
+      <a href="https://github.com/TEAM-DDIS/be14-fin-DDIS-FE"><b>HR 인사관리 시스템</b></a><br/>
     </td>
     <td>2025.05 ~ 06</td>
     <td>
@@ -85,39 +85,21 @@ contact: canddykang.de@gmail.com
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/TEAM-DDIS/be14-4th-DDIS-ToDoDduDu-BE"><b>개인 일정 + 공동 목표 관리 가능 협업형 To-do</b></a><br/>
+      <a href="https://github.com/TEAM-DDIS/be14-4th-DDIS-ToDoDduDu-BE"><b>협업형 To-do 서비스</b></a><br/>
     </td>
-    <td>2025.04 ~ 05</td>
+    <td>2025.04</td>
     <td><sub>Spring Boot, Vue.js, JavaScript, MariaDB</sub></td>
-  </tr>
-  <tr>
-  <tr>
-    <td>
-      <a href="https://github.com/RKDLDE/Z_project"><b>Kotlin 기반 프라이빗 커뮤니티 APP</b></a><br/>
-    </td>
-    <td>2024.07 ~ 11</td>
-    <td><sub>Kotlin, Firebase, Kakao API</sub></td>
   </tr>
 </table>
 
 <br/>
 
-<details>
-<summary><strong> Sub Projects</strong></summary>
-<br/>
-
+## Sub Projects
 <table width="100%" style="table-layout: auto;">
   <tr>
-    <th width="45%" align="center">프로젝트 명</th>
-    <th width="25%" align="center">기간</th>
-    <th width="30%" align="center">사용 기술</th>
-  </tr>
-  <tr>
-   <td>
-      <a href="https://github.com/be14-2nd-spring-is-coming/be14-2nd-springiscomming-marktory"><b>Markdown 기반 블로그</b></a><br/>
-    </td>
-    <td>2025.03 ~ 04</td>
-    <td><sub>Spring Boot, MariaDB, Eureka</sub></td>
+    <th width="50%" align="center">프로젝트 명</th>
+    <th width="23%" align="center">기간</th>
+    <th width="27%" align="center">사용 기술</th>
   </tr>
   <tr>
     <td>
@@ -126,20 +108,36 @@ contact: canddykang.de@gmail.com
     <td>2025.01</td>
     <td><sub>MariaDB, Linux, Ubuntu</sub></td>
   </tr>
-
-  <tr>
+   <tr>
     <td>
-      <a href="https://github.com/RKDLDE/panic_project"><b>Flutter 기반 공황장애 관리 보조 APP</b></a><br/>
+      <a href="https://github.com/RKDLDE/Z_project"><b>Kotlin, Firebase 기반 프라이빗 SNS 앱</b></a><br/>
     </td>
-    <td>2023.06 ~ 2024.01</td>
-    <td><sub>Flutter, Firebase, Google Cloud API</sub></td>
+    <td>2024.07 ~ 11</td>
+    <td><sub>Kotlin, Firebase, Kakao API</sub></td>
   </tr>
 </table>
 
-</details>
-
 <br/>  
+
+
+<!--
+ <tr>
+    <td>
+       <a href="https://github.com/be14-2nd-spring-is-coming/be14-2nd-springiscomming-marktory"><b>Markdown 기반 블로그</b></a><br/>
+     </td>
+     <td>2025.03 ~ 04</td>
+     <td><sub>Spring Boot, MariaDB, Eureka</sub></td>
+   </tr>
+   <tr>
+   <tr>
+  <td>
+    <a href="https://github.com/RKDLDE/panic_project"><b>Flutter 기반 공황장애 관리 보조 APP</b></a><br/>
+  </td>
+  <td>2023.06 ~ 2024.01</td>
+  <td><sub>Flutter, Firebase, Google Cloud API</sub></td>
+ </tr>
 -->
+
 
 ## Stats
 
