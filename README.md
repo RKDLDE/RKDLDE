@@ -83,13 +83,6 @@ contact: canddykang.de@gmail.com
       </sub>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/TEAM-DDIS/be14-4th-DDIS-ToDoDduDu-BE"><b>협업형 To-do 서비스</b></a><br/>
-    </td>
-    <td>2025.04</td>
-    <td><sub>Spring Boot, Vue.js, JavaScript, MariaDB</sub></td>
-  </tr>
 </table>
 
 <br/>
@@ -100,6 +93,13 @@ contact: canddykang.de@gmail.com
     <th width="50%" align="center">프로젝트 명</th>
     <th width="23%" align="center">기간</th>
     <th width="27%" align="center">사용 기술</th>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://github.com/TEAM-DDIS/be14-4th-DDIS-ToDoDduDu-BE"><b>협업형 To-do 서비스</b></a><br/>
+    </td>
+    <td>2025.04</td>
+    <td><sub>Spring Boot, Vue.js, JavaScript, MariaDB</sub></td>
   </tr>
   <tr>
     <td>
