@@ -101,13 +101,13 @@ contact: canddykang.de@gmail.com
     <td>2025.04</td>
     <td><sub>Spring Boot, Vue.js, JavaScript, MariaDB</sub></td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>
       <a href="https://github.com/RKDLDE/be14-1st-DDIS-POPUP"><b>팝업스토어 통합 관리 시스템</b></a><br/>
     </td>
     <td>2025.01</td>
     <td><sub>MariaDB, Linux, Ubuntu</sub></td>
-  </tr>
+  </tr> -->
    <tr>
     <td>
       <a href="https://github.com/RKDLDE/Z_project"><b>Kotlin, Firebase 기반 프라이빗 SNS 앱</b></a><br/>
