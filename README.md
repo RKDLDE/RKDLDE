@@ -22,8 +22,8 @@
 
 <br/>
 
-contact: canddykang.de@gmail.com
-
+contact: canddykang.de@gmail.com  
+about me: https://rkdlde.github.io
 <br/>
 
 ## Tech Stack
