@@ -65,79 +65,22 @@ about me: https://rkdlde.github.io
 <br/>  
 
 ## Main Projects
-
-<table width="100%" style="table-layout: auto;">
-  <tr>
-    <th width="45%" align="center">프로젝트 명</th>
-    <th width="20%" align="center">기간</th>
-    <th width="35%" align="center">사용 기술</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/TEAM-DDIS/be14-fin-DDIS-FE"><b>HR 인사관리 시스템</b></a><br/>
-    </td>
-    <td>2025.05 ~ 06</td>
-    <td>
-      <sub>
-        Spring Boot, FastAPI, Vue.js, JavaScript, ChatGPT API, MariaDB
-      </sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Sub Projects
-<table width="100%" style="table-layout: auto;">
-  <tr>
-    <th width="50%" align="center">프로젝트 명</th>
-    <th width="23%" align="center">기간</th>
-    <th width="27%" align="center">사용 기술</th>
-  </tr>
-   <tr>
-    <td>
-      <a href="https://github.com/TEAM-DDIS/be14-4th-DDIS-ToDoDduDu-BE"><b>협업형 To-do 서비스</b></a><br/>
-    </td>
-    <td>2025.04</td>
-    <td><sub>Spring Boot, Vue.js, JavaScript, MariaDB</sub></td>
-  </tr>
-<!--   <tr>
-    <td>
-      <a href="https://github.com/RKDLDE/be14-1st-DDIS-POPUP"><b>팝업스토어 통합 관리 시스템</b></a><br/>
-    </td>
-    <td>2025.01</td>
-    <td><sub>MariaDB, Linux, Ubuntu</sub></td>
-  </tr> -->
-   <tr>
-    <td>
-      <a href="https://github.com/RKDLDE/Z_project"><b>Kotlin, Firebase 기반 프라이빗 SNS 앱</b></a><br/>
-    </td>
-    <td>2024.07 ~ 11</td>
-    <td><sub>Kotlin, Firebase, Kakao API</sub></td>
-  </tr>
-</table>
+- **[HR 인사관리 시스템](https://github.com/TEAM-DDIS/be14-fin-DDIS-FE)**  
+  2025.05 ~ 06  
+  Java, Spring Boot, Vue.js, FastAPI, MariaDB, ChromaDB, AWS, GitHub Actions, Docker  
 
 <br/>  
 
+## Sub Projects
+- **[협업형 To-do 서비스](https://github.com/TEAM-DDIS/be14-4th-DDIS-ToDoDduDu-BE)**  
+  2025.04  
+  Java, Spring Boot, WebSocket, Vue.js, MariaDB, Redis, Jenkins, Docker, Kubernetes, Argo CD  
 
-<!--
- <tr>
-    <td>
-       <a href="https://github.com/be14-2nd-spring-is-coming/be14-2nd-springiscomming-marktory"><b>Markdown 기반 블로그</b></a><br/>
-     </td>
-     <td>2025.03 ~ 04</td>
-     <td><sub>Spring Boot, MariaDB, Eureka</sub></td>
-   </tr>
-   <tr>
-   <tr>
-  <td>
-    <a href="https://github.com/RKDLDE/panic_project"><b>Flutter 기반 공황장애 관리 보조 APP</b></a><br/>
-  </td>
-  <td>2023.06 ~ 2024.01</td>
-  <td><sub>Flutter, Firebase, Google Cloud API</sub></td>
- </tr>
--->
+- **[Kotlin, Firebase 기반 프라이빗 SNS 앱](https://github.com/RKDLDE/Z_project)**  
+  2024.07 ~ 11  
+  Kotlin, Firebase, Kakao API  
 
+<br/> 
 
 ## Stats
 
