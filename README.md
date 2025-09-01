@@ -22,7 +22,6 @@
 <br/>
 
 contact: canddykang.de@gmail.com  
-about me: https://rkdlde.github.io
 
 <br/>
 <br/>
