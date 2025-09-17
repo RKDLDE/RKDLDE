@@ -90,9 +90,9 @@ contact: canddykang.de@gmail.com
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=RKDLDE&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
     </td>
-    <td>
+<!--     <td>
       <img src="https://streak-stats.demolab.com/?user=RKDLDE&theme=radical" />
-    </td>
+    </td> -->
     <td>
       <a href="https://solved.ac/rkdkang1112">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdkang1112" />
