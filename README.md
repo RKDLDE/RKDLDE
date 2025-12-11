@@ -76,7 +76,7 @@ contact: canddykang.de@gmail.com
   2025.04  
   Java, Spring Boot, WebSocket, Vue.js, MariaDB, Redis, Jenkins, Docker, Kubernetes, Argo CD  
 
-- **[Kotlin, Firebase 기반 위젯 공유 앱](https://github.com/RKDLDE/Z_project)**  
+- **[Kotlin, Firebase 기반 SNS 앱](https://github.com/RKDLDE/Z_project)**  
   2024.07 ~ 11  
   Kotlin, Firebase, Kakao API  
 
