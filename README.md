@@ -63,7 +63,7 @@ contact: canddykang.de@gmail.com
 </table>
 
 <br/>  
-
+<!--
 ## Main Projects
 - **[HR 인사관리 시스템](https://github.com/TEAM-DDIS/be14-fin-DDIS-FE)**  
   2025.05 ~ 06  
@@ -81,7 +81,7 @@ contact: canddykang.de@gmail.com
   Kotlin, Firebase, Kakao API  
 
 <br/> 
-<!--
+
 ## Stats
 
 <div align="center">
